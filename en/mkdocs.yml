@@ -20,3 +20,7 @@ nav:
   - DDD Reference:
       - Overview: ddd-reference/overview.md
       - I. Putting the Model to Work: ddd-reference/01-putting-the-model-to-work.md
+      - II. Building Blocks of a Model-Driven Design:
+          - Overview: ddd-reference/02-building-blocks-of-a-model-driven-design.md
+          - Layered Architecture:
+              - Overview: ddd-reference/layered-architecture/overview.md
