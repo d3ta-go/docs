@@ -24,3 +24,4 @@ nav:
           - Overview: ddd-reference/02-building-blocks-of-a-model-driven-design.md
           - Layered Architecture:
               - Overview: ddd-reference/layered-architecture/overview.md
+      - III. Supple Design: ddd-reference/03-supple-design.md
