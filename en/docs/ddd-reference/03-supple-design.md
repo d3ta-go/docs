@@ -12,6 +12,11 @@ Equally important, the design must serve the developer working to change it. To 
 - Reducing the cost of change
 - Creating software developers to work with
 
+<br/>
+<br/>
+
+![Some patterns that contribute to supple design diagram](../assets/img/ddd-reference/eric-evans-supple-design-patterns-2004.png)
+
 ---
 
 ## **Intention-Revealing Interfaces**

@@ -1,4 +1,4 @@
-# **IV.Context Mapping for Strategic Design**
+# **IV. Context Mapping for Strategic Design**
 
 ![A navigation map for model integrity patterns diagram](../assets/img/ddd-reference/eric-evans-ddd-strategic-design-model-integrity-patterns-2015.png)
 
