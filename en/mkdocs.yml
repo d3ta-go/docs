@@ -1,5 +1,22 @@
+# Project information
 site_name: D3TA-Go Docs
 
+# Repository
+repo_name: d3ta-go/docs
+repo_url: https://github.com/d3ta-go/docs
+edit_uri: https://github.com/d3ta-go/docs/edit/main/en/docs/
+
+# Configuration
+theme: material
+theme:
+  name: material
+  palette:
+    primary: blue grey
+    accent: blue grey
+
+# Navigation
 nav:
   - Home: index.md
-  - DDD Reference: ddd-reference/index.md
+  - DDD Reference:
+      - Overview: ddd-reference/overview.md
+      - I. Putting the Model to Work: ddd-reference/01-putting-the-model-to-work.md
