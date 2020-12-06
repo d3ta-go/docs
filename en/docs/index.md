@@ -1,13 +1,13 @@
-# Welcome to MkDocs
+# Welcome to D3TA-GO Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation visit [d3ta-go](https://github.com/d3ta-go).
 
 ## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- `mkdocs new [dir-name]` - Create a new project.
+- `mkdocs serve` - Start the live-reloading docs server.
+- `mkdocs build` - Build the documentation site.
+- `mkdocs -h` - Print help message and exit.
 
 ## Project layout
 

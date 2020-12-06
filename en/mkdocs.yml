@@ -1,1 +1,5 @@
 site_name: D3TA-Go Docs
+
+nav:
+  - Home: index.md
+  - DDD Reference: ddd-reference/index.md
