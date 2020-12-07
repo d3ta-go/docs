@@ -40,6 +40,8 @@ _A description of a boundary (typically a subsystem, or the work of a particular
 
 ### **References**
 
-1. [Book] Domain-Driven Design Reference: Definitions and Pattern Summaries (Eric Evans, 2015). [ [eBook Link!](https://www.domainlanguage.com/product/domain-driven-design-reference/) ]
+1. [Book] Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition (Eric Evans, 2004)
 
-2. [Tools] zeljkoobrenovic's DDD Catalog Tools. [ [Tools Link!](https://www.zeljkoobrenovic.com/tools/catalogs/?id=ddd) ]
+2. [Book] Domain-Driven Design Reference: Definitions and Pattern Summaries (Eric Evans, 2015). [ [eBook Link!](https://www.domainlanguage.com/product/domain-driven-design-reference/) ]
+
+3. [Tools] zeljkoobrenovic's DDD Catalog Tools. [ [Tools Link!](https://www.zeljkoobrenovic.com/tools/catalogs/?id=ddd) ]
