@@ -26,3 +26,5 @@ nav:
               - Overview: ddd-reference/layered-architecture/overview.md
       - III. Supple Design: ddd-reference/03-supple-design.md
       - IV. Context Mapping for Strategic Design: ddd-reference/04-context-mapping-for-strategic-design.md
+      - V. Distillation for Strategic Design: ddd-reference/05-distillation-for-strategic-design.md
+      - VI. Large-scale Structure for Strategic Design: ddd-reference/06-large-scale-structure-for-strategic-design.md
